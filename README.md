@@ -111,9 +111,6 @@ Predicted orientation of 707 images correctly out of 943 test images.
 accuracy 74.97348886532343 %
 
 
-**Note** - I have referenced the Neural Network code from Git repository - https://github.com/Hasika11/Image-Orientation-Detection/blob/master/orient.py
-Initially, I had only planned to submit kNN code due to the lack of time, but I really wanted to implement Neural Network from scratch and understand it's working. That's why, I implemented the code myself from scratch after referencing from above. 
 
-After submission, I will try and increase the hidden layers and the number of nodes in them, to check if I can increase the accuracy.
 
 
